@@ -3,42 +3,109 @@ package es.ies.ejercicios.u6.ej65.lsp
 import es.ies.ejercicios.u6.ej64.Persona
 
 /**
- * Contrato: un repositorio que permite guardar y buscar personas.
+ * LSP - Versión refactorizada
+ *
+ * En lugar de tener una clase base que obliga a implementar
+ * guardar y buscar, separamos capacidades:
+ *
+ * - Solo lectura
+ * - Lectura + escritura
+ *
+ * Así ninguna subclase rompe el contrato.
  */
-open class RepositorioPersonasV0 {
-    private val map = mutableMapOf<String, Persona>()
 
-    open fun guardar(persona: Persona) {
-        map[persona.nombre] = persona
-    }
+/* ================================
+   INTERFACES (CAPACIDADES)
+   ================================ */
 
-    open fun buscar(nombre: String): Persona? = map[nombre]
+/**
+ * Capacidad de solo lectura
+ */
+interface RepositorioLecturaPersonas {
+    fun buscar(nombre: String): Persona?
 }
 
 /**
- * v0 (posible violación de LSP): una subclase rompe el contrato esperado de "guardar".
- * El código cliente que acepta [RepositorioPersonasV0] puede fallar al sustituirlo por esta subclase.
+ * Capacidad de escritura
  */
-class RepositorioSoloLecturaV0 : RepositorioPersonasV0() {
-    override fun guardar(persona: Persona) {
-        throw UnsupportedOperationException("Repositorio en modo solo lectura")
-    }
+interface RepositorioEscrituraPersonas {
+    fun guardar(persona: Persona)
 }
 
-fun cliente(repo: RepositorioPersonasV0) {
+/**
+ * Repositorio completo (lectura + escritura)
+ */
+interface RepositorioPersonas :
+    RepositorioLecturaPersonas,
+    RepositorioEscrituraPersonas
+
+
+/* ================================
+   IMPLEMENTACIONES
+   ================================ */
+
+/**
+ * Implementación completa (lectura + escritura)
+ */
+class RepositorioMemoria : RepositorioPersonas {
+
+    private val map = mutableMapOf<String, Persona>()
+
+    override fun guardar(persona: Persona) {
+        map[persona.nombre] = persona
+    }
+
+    override fun buscar(nombre: String): Persona? =
+        map[nombre]
+}
+
+/**
+ * Implementación solo lectura.
+ * NO implementa escritura.
+ */
+class RepositorioSoloLectura(
+    private val origen: RepositorioLecturaPersonas
+) : RepositorioLecturaPersonas {
+
+    override fun buscar(nombre: String): Persona? =
+        origen.buscar(nombre)
+}
+
+
+/* ================================
+   CLIENTES
+   ================================ */
+
+/**
+ * Cliente que necesita escribir
+ */
+fun clienteEscritura(repo: RepositorioPersonas) {
     repo.guardar(Persona("Ana", 20))
     println("Buscar Ana -> ${repo.buscar("Ana")?.resumen()}")
 }
 
-fun main() {
-    println("[LSP:v0] Repositorio normal (ok)")
-    cliente(RepositorioPersonasV0())
-
-    println("\n[LSP:v0] Repositorio solo lectura (rompe sustitución)")
-    try {
-        cliente(RepositorioSoloLecturaV0())
-    } catch (e: Exception) {
-        println("ERROR: ${e::class.simpleName}: ${e.message}")
-    }
+/**
+ * Cliente que solo necesita leer
+ */
+fun clienteLectura(repo: RepositorioLecturaPersonas) {
+    println("Buscar Ana -> ${repo.buscar("Ana")?.resumen()}")
 }
 
+
+/* ================================
+   MAIN / DEMO
+   ================================ */
+
+fun main() {
+
+    println("[LSP] Repositorio completo")
+    val repoCompleto = RepositorioMemoria()
+    clienteEscritura(repoCompleto)
+
+    println("\n[LSP] Repositorio solo lectura")
+    val repoSoloLectura = RepositorioSoloLectura(repoCompleto)
+    clienteLectura(repoSoloLectura)
+
+    // Esto ya no compila (y eso es bueno):
+    // clienteEscritura(repoSoloLectura)
+}

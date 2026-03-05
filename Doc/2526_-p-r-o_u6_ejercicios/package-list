@@ -1,0 +1,176 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/[root]/index.html
+$dokka.location://main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/[root]/main.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/index.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Diseñador///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-diseñador/index.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Diseñador/Diseñador/#kotlin.String#kotlin.Double#kotlin.Int/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-diseñador/-diseñador.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Diseñador/calcularSalario/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-diseñador/calcular-salario.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Diseñador/trabajar/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-diseñador/trabajar.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Empleado///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-empleado/index.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Empleado/Empleado/#kotlin.String#kotlin.Double/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-empleado/-empleado.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Empleado/calcularSalario/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-empleado/calcular-salario.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Empleado/nombre/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-empleado/nombre.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Empleado/trabajar/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-empleado/trabajar.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Programador///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-programador/index.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Programador/Programador/#kotlin.String#kotlin.Double#kotlin.Int/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-programador/-programador.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Programador/calcularSalario/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-programador/calcular-salario.html
+$dokka.location:es.ies.ejercicios.u6.ej61.especializacion/Programador/trabajar/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.especializacion/-programador/trabajar.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/index.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension/Dispositivo///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/-dispositivo/index.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension/Dispositivo/Dispositivo/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/-dispositivo/-dispositivo.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension/Dispositivo/apagar/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/-dispositivo/apagar.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension/Dispositivo/encender/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/-dispositivo/encender.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension/Dispositivo/marca/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/-dispositivo/marca.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension/Escaner///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/-escaner/index.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension/Escaner/Escaner/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/-escaner/-escaner.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension/Escaner/escanear/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/-escaner/escanear.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension/Impresora///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/-impresora/index.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension/Impresora/Impresora/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/-impresora/-impresora.html
+$dokka.location:es.ies.ejercicios.u6.ej61.extension/Impresora/imprimir/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61.extension/-impresora/imprimir.html
+$dokka.location:es.ies.ejercicios.u6.ej61////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61/index.html
+$dokka.location:es.ies.ejercicios.u6.ej61//main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej61/main.html
+$dokka.location:es.ies.ejercicios.u6.ej62.v0////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62.v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62.v0//main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62.v0/main.html
+$dokka.location:es.ies.ejercicios.u6.ej62.v0/ReportFormatV0.CSV///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62.v0/-report-format-v0/-c-s-v/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62.v0/ReportFormatV0.MARKDOWN///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62.v0/-report-format-v0/-m-a-r-k-d-o-w-n/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62.v0/ReportFormatV0///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62.v0/-report-format-v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62.v0/ReportFormatV0/entries/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62.v0/-report-format-v0/entries.html
+$dokka.location:es.ies.ejercicios.u6.ej62.v0/ReportFormatV0/valueOf/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62.v0/-report-format-v0/value-of.html
+$dokka.location:es.ies.ejercicios.u6.ej62.v0/ReportFormatV0/values/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62.v0/-report-format-v0/values.html
+$dokka.location:es.ies.ejercicios.u6.ej62.v0/ReportGeneratorV0///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62.v0/-report-generator-v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62.v0/ReportGeneratorV0/ReportGeneratorV0/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62.v0/-report-generator-v0/-report-generator-v0.html
+$dokka.location:es.ies.ejercicios.u6.ej62.v0/ReportGeneratorV0/generate/#es.ies.ejercicios.u6.ej62.v0.ReportFormatV0#kotlin.String#kotlin.collections.List[kotlin.String]/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62.v0/-report-generator-v0/generate.html
+$dokka.location:es.ies.ejercicios.u6.ej62////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62//main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/main.html
+$dokka.location:es.ies.ejercicios.u6.ej62/BaseLogger///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-base-logger/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62/BaseLogger/BaseLogger/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-base-logger/-base-logger.html
+$dokka.location:es.ies.ejercicios.u6.ej62/BaseLogger/log/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-base-logger/log.html
+$dokka.location:es.ies.ejercicios.u6.ej62/CsvReport///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-csv-report/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62/CsvReport/CsvReport/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-csv-report/-csv-report.html
+$dokka.location:es.ies.ejercicios.u6.ej62/Ej62///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-ej62/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62/Logger///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-logger/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62/Logger/log/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-logger/log.html
+$dokka.location:es.ies.ejercicios.u6.ej62/MarkdownReport///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-markdown-report/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62/MarkdownReport/MarkdownReport/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-markdown-report/-markdown-report.html
+$dokka.location:es.ies.ejercicios.u6.ej62/ReportTemplate///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-report-template/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62/ReportTemplate/ReportTemplate/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-report-template/-report-template.html
+$dokka.location:es.ies.ejercicios.u6.ej62/ReportTemplate/generate/#kotlin.String#kotlin.collections.List[kotlin.String]/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-report-template/generate.html
+$dokka.location:es.ies.ejercicios.u6.ej62/StdoutLogger///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-stdout-logger/index.html
+$dokka.location:es.ies.ejercicios.u6.ej62/StdoutLogger/StdoutLogger/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-stdout-logger/-stdout-logger.html
+$dokka.location:es.ies.ejercicios.u6.ej62/StdoutLogger/log/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej62/-stdout-logger/log.html
+$dokka.location:es.ies.ejercicios.u6.ej63////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/index.html
+$dokka.location:es.ies.ejercicios.u6.ej63//main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/main.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Circulo///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-circulo/index.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Circulo/Circulo/#kotlin.Int/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-circulo/-circulo.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Circulo/Circulo/#kotlin.String#kotlin.String#kotlin.Int/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-circulo/-circulo.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Circulo/radio/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-circulo/radio.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Ej63///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-ej63/index.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Figura///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-figura/index.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Figura/Figura/#kotlin.String#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-figura/-figura.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Figura/Figura/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-figura/-figura.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Figura/color/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-figura/color.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Figura/etiqueta/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-figura/etiqueta.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Rectangulo///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-rectangulo/index.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Rectangulo/Rectangulo/#kotlin.Int#kotlin.Int/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-rectangulo/-rectangulo.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Rectangulo/Rectangulo/#kotlin.Int/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-rectangulo/-rectangulo.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Rectangulo/Rectangulo/#kotlin.String#kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-rectangulo/-rectangulo.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Rectangulo/alto/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-rectangulo/alto.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Rectangulo/ancho/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-rectangulo/ancho.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Triangulo///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-triangulo/index.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Triangulo/Triangulo/#kotlin.Int#kotlin.Int/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-triangulo/-triangulo.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Triangulo/Triangulo/#kotlin.Int/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-triangulo/-triangulo.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Triangulo/altura/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-triangulo/altura.html
+$dokka.location:es.ies.ejercicios.u6.ej63/Triangulo/base/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej63/-triangulo/base.html
+$dokka.location:es.ies.ejercicios.u6.ej64////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/index.html
+$dokka.location:es.ies.ejercicios.u6.ej64//main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/main.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Alumno///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-alumno/index.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Alumno/Alumno/#kotlin.String#kotlin.Int#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-alumno/-alumno.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Alumno/Alumno/#kotlin.String#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-alumno/-alumno.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Alumno/curso/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-alumno/curso.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Alumno/resumen/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-alumno/resumen.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Ej64///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-ej64/index.html
+$dokka.location:es.ies.ejercicios.u6.ej64/InformeCsv///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-informe-csv/index.html
+$dokka.location:es.ies.ejercicios.u6.ej64/InformeCsv/InformeCsv/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-informe-csv/-informe-csv.html
+$dokka.location:es.ies.ejercicios.u6.ej64/InformeMarkdown///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-informe-markdown/index.html
+$dokka.location:es.ies.ejercicios.u6.ej64/InformeMarkdown/InformeMarkdown/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-informe-markdown/-informe-markdown.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Persona///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-persona/index.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Persona/Persona/#kotlin.String#kotlin.Int/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-persona/-persona.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Persona/Persona/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-persona/-persona.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Persona/edad/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-persona/edad.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Persona/nombre/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-persona/nombre.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Persona/resumen/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-persona/resumen.html
+$dokka.location:es.ies.ejercicios.u6.ej64/PlantillaInforme///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-plantilla-informe/index.html
+$dokka.location:es.ies.ejercicios.u6.ej64/PlantillaInforme/PlantillaInforme/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-plantilla-informe/-plantilla-informe.html
+$dokka.location:es.ies.ejercicios.u6.ej64/PlantillaInforme/generar/#kotlin.String#kotlin.collections.List[es.ies.ejercicios.u6.ej64.Resumible]/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-plantilla-informe/generar.html
+$dokka.location:es.ies.ejercicios.u6.ej64/PlantillaInforme/resumen/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-plantilla-informe/resumen.html
+$dokka.location:es.ies.ejercicios.u6.ej64/RegistroPersonas///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-registro-personas/index.html
+$dokka.location:es.ies.ejercicios.u6.ej64/RegistroPersonas/RegistroPersonas/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-registro-personas/-registro-personas.html
+$dokka.location:es.ies.ejercicios.u6.ej64/RegistroPersonas/buscar/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-registro-personas/buscar.html
+$dokka.location:es.ies.ejercicios.u6.ej64/RegistroPersonas/registrar/#es.ies.ejercicios.u6.ej64.Persona/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-registro-personas/registrar.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Resumible///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-resumible/index.html
+$dokka.location:es.ies.ejercicios.u6.ej64/Resumible/resumen/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej64/-resumible/resumen.html
+$dokka.location:es.ies.ejercicios.u6.ej65.dip////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.dip/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.dip//main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.dip/main.html
+$dokka.location:es.ies.ejercicios.u6.ej65.dip/ControladorInformesV0///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.dip/-controlador-informes-v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.dip/ControladorInformesV0/ControladorInformesV0/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.dip/-controlador-informes-v0/-controlador-informes-v0.html
+$dokka.location:es.ies.ejercicios.u6.ej65.dip/ControladorInformesV0/imprimirListado/#kotlin.collections.List[es.ies.ejercicios.u6.ej64.Resumible]/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.dip/-controlador-informes-v0/imprimir-listado.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp//main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/main.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/BuscadorPersonasV0///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-buscador-personas-v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/BuscadorPersonasV0/BuscadorPersonasV0/#es.ies.ejercicios.u6.ej65.isp.RepositorioPersonasCompletoV0/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-buscador-personas-v0/-buscador-personas-v0.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/BuscadorPersonasV0/buscar/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-buscador-personas-v0/buscar.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/RepositorioMemoriaV0///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-repositorio-memoria-v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/RepositorioMemoriaV0/RepositorioMemoriaV0/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-repositorio-memoria-v0/-repositorio-memoria-v0.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/RepositorioMemoriaV0/borrarTodo/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-repositorio-memoria-v0/borrar-todo.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/RepositorioMemoriaV0/buscar/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-repositorio-memoria-v0/buscar.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/RepositorioMemoriaV0/exportarCsv/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-repositorio-memoria-v0/exportar-csv.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/RepositorioMemoriaV0/guardar/#es.ies.ejercicios.u6.ej64.Persona/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-repositorio-memoria-v0/guardar.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/RepositorioPersonasCompletoV0///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-repositorio-personas-completo-v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/RepositorioPersonasCompletoV0/borrarTodo/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-repositorio-personas-completo-v0/borrar-todo.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/RepositorioPersonasCompletoV0/buscar/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-repositorio-personas-completo-v0/buscar.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/RepositorioPersonasCompletoV0/exportarCsv/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-repositorio-personas-completo-v0/exportar-csv.html
+$dokka.location:es.ies.ejercicios.u6.ej65.isp/RepositorioPersonasCompletoV0/guardar/#es.ies.ejercicios.u6.ej64.Persona/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.isp/-repositorio-personas-completo-v0/guardar.html
+$dokka.location:es.ies.ejercicios.u6.ej65.lsp////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.lsp/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.lsp//cliente/#es.ies.ejercicios.u6.ej65.lsp.RepositorioPersonasV0/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.lsp/cliente.html
+$dokka.location:es.ies.ejercicios.u6.ej65.lsp//main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.lsp/main.html
+$dokka.location:es.ies.ejercicios.u6.ej65.lsp/RepositorioPersonasV0///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.lsp/-repositorio-personas-v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.lsp/RepositorioPersonasV0/RepositorioPersonasV0/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.lsp/-repositorio-personas-v0/-repositorio-personas-v0.html
+$dokka.location:es.ies.ejercicios.u6.ej65.lsp/RepositorioPersonasV0/buscar/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.lsp/-repositorio-personas-v0/buscar.html
+$dokka.location:es.ies.ejercicios.u6.ej65.lsp/RepositorioPersonasV0/guardar/#es.ies.ejercicios.u6.ej64.Persona/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.lsp/-repositorio-personas-v0/guardar.html
+$dokka.location:es.ies.ejercicios.u6.ej65.lsp/RepositorioSoloLecturaV0///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.lsp/-repositorio-solo-lectura-v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.lsp/RepositorioSoloLecturaV0/RepositorioSoloLecturaV0/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.lsp/-repositorio-solo-lectura-v0/-repositorio-solo-lectura-v0.html
+$dokka.location:es.ies.ejercicios.u6.ej65.lsp/RepositorioSoloLecturaV0/guardar/#es.ies.ejercicios.u6.ej64.Persona/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.lsp/-repositorio-solo-lectura-v0/guardar.html
+$dokka.location:es.ies.ejercicios.u6.ej65.ocp////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.ocp/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.ocp//main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.ocp/main.html
+$dokka.location:es.ies.ejercicios.u6.ej65.ocp/FormatoInformeV0.CSV///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.ocp/-formato-informe-v0/-c-s-v/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.ocp/FormatoInformeV0.MARKDOWN///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.ocp/-formato-informe-v0/-m-a-r-k-d-o-w-n/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.ocp/FormatoInformeV0///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.ocp/-formato-informe-v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.ocp/FormatoInformeV0/entries/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.ocp/-formato-informe-v0/entries.html
+$dokka.location:es.ies.ejercicios.u6.ej65.ocp/FormatoInformeV0/valueOf/#kotlin.String/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.ocp/-formato-informe-v0/value-of.html
+$dokka.location:es.ies.ejercicios.u6.ej65.ocp/FormatoInformeV0/values/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.ocp/-formato-informe-v0/values.html
+$dokka.location:es.ies.ejercicios.u6.ej65.ocp/GeneradorInformeV0///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.ocp/-generador-informe-v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.ocp/GeneradorInformeV0/GeneradorInformeV0/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.ocp/-generador-informe-v0/-generador-informe-v0.html
+$dokka.location:es.ies.ejercicios.u6.ej65.ocp/GeneradorInformeV0/generar/#es.ies.ejercicios.u6.ej65.ocp.FormatoInformeV0#kotlin.String#kotlin.collections.List[es.ies.ejercicios.u6.ej64.Resumible]/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.ocp/-generador-informe-v0/generar.html
+$dokka.location:es.ies.ejercicios.u6.ej65.srp////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.srp/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.srp//main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.srp/main.html
+$dokka.location:es.ies.ejercicios.u6.ej65.srp/InformeAppServiceV0///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.srp/-informe-app-service-v0/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65.srp/InformeAppServiceV0/InformeAppServiceV0/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.srp/-informe-app-service-v0/-informe-app-service-v0.html
+$dokka.location:es.ies.ejercicios.u6.ej65.srp/InformeAppServiceV0/ejecutar/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65.srp/-informe-app-service-v0/ejecutar.html
+$dokka.location:es.ies.ejercicios.u6.ej65////PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65/index.html
+$dokka.location:es.ies.ejercicios.u6.ej65//main/#/PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65/main.html
+$dokka.location:es.ies.ejercicios.u6.ej65/Ej65///PointingToDeclaration/2526_-p-r-o_u6_ejercicios/es.ies.ejercicios.u6.ej65/-ej65/index.html
+es.ies.ejercicios.u6.ej61
+es.ies.ejercicios.u6.ej61.especializacion
+es.ies.ejercicios.u6.ej61.extension
+es.ies.ejercicios.u6.ej62
+es.ies.ejercicios.u6.ej62.v0
+es.ies.ejercicios.u6.ej63
+es.ies.ejercicios.u6.ej64
+es.ies.ejercicios.u6.ej65
+es.ies.ejercicios.u6.ej65.dip
+es.ies.ejercicios.u6.ej65.isp
+es.ies.ejercicios.u6.ej65.lsp
+es.ies.ejercicios.u6.ej65.ocp
+es.ies.ejercicios.u6.ej65.srp
+
