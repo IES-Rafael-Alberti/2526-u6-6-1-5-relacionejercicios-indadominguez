@@ -2,37 +2,66 @@ package es.ies.ejercicios.u6.ej65.ocp
 
 import es.ies.ejercicios.u6.ej64.Resumible
 
-enum class FormatoInformeV0 {
-    CSV,
-    MARKDOWN,
-    // TODO (ejercicio): cuando quieras añadir otro formato, v0 te obliga a modificar este enum y el `when`.
+/**
+ * OCP - Versión refactorizada
+ *
+ * Ahora el generador depende de una abstracción (FormatoInforme)
+ * y no necesita modificarse cuando añadimos nuevos formatos.
+ */
+
+/* ================================
+   ABSTRACCIÓN
+   ================================ */
+
+interface FormatoInforme {
+    fun generar(titulo: String, items: List<Resumible>): String
 }
 
-/**
- * v0 (viola OCP): para añadir un nuevo formato hay que modificar este `when`.
- */
-class GeneradorInformeV0 {
-    fun generar(formato: FormatoInformeV0, titulo: String, items: List<Resumible>): String =
-        when (formato) {
-            FormatoInformeV0.CSV -> generarCsv(titulo, items)
-            FormatoInformeV0.MARKDOWN -> generarMarkdown(titulo, items)
-        }
+/* ================================
+   IMPLEMENTACIONES CONCRETAS
+   ================================ */
 
-    private fun generarCsv(titulo: String, items: List<Resumible>): String =
+class FormatoCsv : FormatoInforme {
+
+    override fun generar(titulo: String, items: List<Resumible>): String =
         buildString {
             appendLine("titulo,$titulo")
             appendLine("item")
-            for (item in items) appendLine(item.resumen().replace(",", ";"))
-        }
-
-    private fun generarMarkdown(titulo: String, items: List<Resumible>): String =
-        buildString {
-            appendLine("# $titulo")
-            for (item in items) appendLine("- ${item.resumen()}")
+            for (item in items) {
+                appendLine(item.resumen().replace(",", ";"))
+            }
         }
 }
 
+class FormatoMarkdown : FormatoInforme {
+
+    override fun generar(titulo: String, items: List<Resumible>): String =
+        buildString {
+            appendLine("# $titulo")
+            for (item in items) {
+                appendLine("- ${item.resumen()}")
+            }
+        }
+}
+
+/* ================================
+   GENERADOR (CERRADO A MODIFICACIÓN)
+   ================================ */
+
+class GeneradorInforme(
+    private val formato: FormatoInforme
+) {
+
+    fun generar(titulo: String, items: List<Resumible>): String =
+        formato.generar(titulo, items)
+}
+
+/* ================================
+   MAIN / DEMO
+   ================================ */
+
 fun main() {
+
     val items = listOf<Resumible>(
         object : Resumible {
             override fun resumen(): String = "Elemento A"
@@ -42,7 +71,9 @@ fun main() {
         },
     )
 
-    val generador = GeneradorInformeV0()
-    println(generador.generar(FormatoInformeV0.MARKDOWN, "Demo OCP", items))
-}
+    // La decisión del formato se hace fuera del generador
+    val formato: FormatoInforme = FormatoMarkdown()
+    val generador = GeneradorInforme(formato)
 
+    println(generador.generar("Demo OCP", items))
+}
